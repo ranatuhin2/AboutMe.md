@@ -10,7 +10,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: aimlesstuhin@gmail.com
-- 🖥️ GitHub: [github.com/ranatuhin2]([Tuhin Rana] (https://github.com/ranatuhin2)
+- 🖥️ GitHub: [Tuhin Rana](https://github.com/ranatuhin2)
 
 ## 🛠️ Skills & Tools
 
